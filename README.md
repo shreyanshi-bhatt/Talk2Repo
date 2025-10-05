@@ -58,3 +58,6 @@ DAY 3:
 - changed ui of the dashboard page
 - installed octokit (github api)
 
+Date: 5 Oct 2025
+- Need to configure gemini for adding commit summary : 1:45:57
+
